@@ -1,4 +1,4 @@
-package com.example.shoppingcard.dto.product;
+package com.example.shoppingcard.dto;
 
 public class ProductDto {
     private Long id;

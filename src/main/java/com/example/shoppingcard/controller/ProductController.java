@@ -1,6 +1,6 @@
 package com.example.shoppingcard.controller;
 
-import com.example.shoppingcard.dto.product.ProductDto;
+import com.example.shoppingcard.dto.ProductDto;
 import com.example.shoppingcard.model.Product;
 import com.example.shoppingcard.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;

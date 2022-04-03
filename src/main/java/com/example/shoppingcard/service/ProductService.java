@@ -1,7 +1,7 @@
 package com.example.shoppingcard.service;
 
 import com.example.shoppingcard.controller.ApiResponse;
-import com.example.shoppingcard.dto.product.ProductDto;
+import com.example.shoppingcard.dto.ProductDto;
 import com.example.shoppingcard.model.Category;
 import com.example.shoppingcard.model.Product;
 import com.example.shoppingcard.repository.CategoryRepository;
